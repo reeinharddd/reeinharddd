@@ -76,4 +76,4 @@ Personal portfolio. Custom design system, bilingual (EN/ES), 8 portfolio project
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/erik-beltran-dev/) · [Landing](https://reeinhar.dev) · [Email](mailto:beltraberik@gmail.com) · [+52 664 340 7701](tel:+526643407701)
+[LinkedIn](https://www.linkedin.com/in/erik-beltran-dev/) · [Email](mailto:beltraberik@gmail.com) · [Landing](https://www.erik-beltran.dev/en/)
