@@ -33,7 +33,7 @@ Enterprise access control system for a manufacturing plant. Built solo — full 
 ![Redis](https://img.shields.io/badge/Redis-10B981?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=flat-square&logo=postgresql&logoColor=white)
 
-### [okit](https://github.com/reeinharddd/okit) · private
+### [okit](https://github.com/reeinharddd/okit) · public
 Multi-purpose CLI. 18 packages managing models, skills, MCPs, agents, routing, and runtime config. SDD-TDD hybrid workflow with progressive coverage targets.
 
 ![Go](https://img.shields.io/badge/Go-10B981?style=flat-square&logo=go&logoColor=white)
@@ -41,13 +41,13 @@ Multi-purpose CLI. 18 packages managing models, skills, MCPs, agents, routing, a
 ![73% coverage](https://img.shields.io/badge/73%25_coverage-10B981?style=flat-square)
 ![11.2k LOC](https://img.shields.io/badge/11k_LOC-10B981?style=flat-square)
 
-### [sys-inspector](https://github.com/reeinharddd/sys-inspector) · private
+### [sys-inspector](https://github.com/reeinharddd/sys-inspector) · public
 Universal system inspection for AI agents. 16 detectors across tools, hardware, runtimes, services, network, and security. Zero dependencies.
 
 ![Shell](https://img.shields.io/badge/Shell-10B981?style=flat-square&logo=gnubash&logoColor=white)
 ![POSIX](https://img.shields.io/badge/POSIX-10B981?style=flat-square)
 
-### [landing](https://github.com/reeinharddd/landing) · private
+### [landing](https://github.com/reeinharddd/landing) · public
 Personal portfolio. Custom design system, bilingual (EN/ES), 8 portfolio projects with verified metrics.
 
 ![Astro](https://img.shields.io/badge/Astro-10B981?style=flat-square&logo=astro&logoColor=white)
