@@ -76,14 +76,4 @@ Personal portfolio. Custom design system, bilingual (EN/ES), 8 portfolio project
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/reeinharddd) · [Landing](https://reeinhar.dev) · [Email](mailto:erik@reeinhar.dev)
-
----
-
-## To Publish
-
-- [ ] Make **okit** public
-- [ ] Make **sys-inspector** public
-- [ ] Make **landing** public
-- [ ] Create repo `reeinharddd/reeinharddd` with this README + `github-header.png`
-- [ ] Update GitHub bio
+[LinkedIn](https://www.linkedin.com/in/erik-beltran-dev/) · [Landing](https://reeinhar.dev) · [Email](mailto:beltraberik@gmail.com) · [+52 664 340 7701](tel:+526643407701)
