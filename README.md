@@ -47,13 +47,28 @@ Universal system inspection for AI agents. 16 detectors across tools, hardware, 
 ![Shell](https://img.shields.io/badge/Shell-10B981?style=flat-square&logo=gnubash&logoColor=white)
 ![POSIX](https://img.shields.io/badge/POSIX-10B981?style=flat-square)
 
-### [landing](https://github.com/reeinharddd/landing) · public
-Personal portfolio. Custom design system, bilingual (EN/ES), 8 portfolio projects with verified metrics.
+---
 
-![Astro](https://img.shields.io/badge/Astro-10B981?style=flat-square&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-10B981?style=flat-square&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-10B981?style=flat-square&logo=typescript&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-10B981?style=flat-square)
+## Concepts & Archives
+
+Ideas I explored and built — not actively maintained, but the architecture and approach still inform my work.
+
+### [brain](https://github.com/reeinharddd/brain) · public archive
+AI engineering control plane — daemon-centered orchestrator. **62k LOC Go**, 46% test coverage, 9 MCP servers, 13 agents, multi-provider LLM orchestration, OpenTelemetry instrumentation. 7 Architecture Decision Records.
+
+![Go](https://img.shields.io/badge/Go-10B981?style=flat-square&logo=go&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-10B981?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-10B981?style=flat-square&logo=sqlite&logoColor=white)
+![46% coverage](https://img.shields.io/badge/46%25_coverage-10B981?style=flat-square)
+![62k LOC](https://img.shields.io/badge/62k_LOC-10B981?style=flat-square)
+
+### [bks](https://github.com/Reinharrrd/bks) · public archive
+RAG knowledge management system — document ingestion across 5 formats (PDF, DOCX, images), hybrid search with FTS5 full-text + vector + RRF reranking, MCP server with 5 tools. 11 Architecture Decision Records.
+
+![Python](https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-10B981?style=flat-square&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-10B981?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-10B981?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
