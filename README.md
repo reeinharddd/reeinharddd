@@ -53,7 +53,7 @@ AI agents are blind to the machines they run on. sys-inspector bridges that gap 
 
 Ideas I explored and built — not actively maintained, but the architecture and approach still inform my work.
 
-### [brain](https://github.com/reeinharddd/brain) · public archive
+### [brain](https://github.com/reeinharddd/brain) · public
 Managing 13 AI agents, 9 MCP servers, and 5 LLM providers separately is chaos. brain orchestrates them as a single system — a Go daemon with telemetry, routing, persistent memory, and multi-provider LLM dispatch. 62k LOC, 46% test coverage, 7 ADRs documenting every architectural decision.
 
 ![Go](https://img.shields.io/badge/Go-10B981?style=flat-square&logo=go&logoColor=white)
@@ -62,7 +62,7 @@ Managing 13 AI agents, 9 MCP servers, and 5 LLM providers separately is chaos. b
 ![46% coverage](https://img.shields.io/badge/46%25_coverage-10B981?style=flat-square)
 ![62k LOC](https://img.shields.io/badge/62k_LOC-10B981?style=flat-square)
 
-### [bks](https://github.com/Reinharrrd/bks) · public archive
+### [bks](https://github.com/reeinharddd/bks) · public
 Documents pile up in every format — PDFs, DOCX, images, plain text. bks ingests them all into one searchable knowledge base. Hybrid search: FTS5 for exact matches, vector embeddings for semantic meaning, RRF reranking for the best of both. MCP server included so AI agents can query it too.
 
 ![Python](https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white)
