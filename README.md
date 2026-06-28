@@ -13,13 +13,13 @@ a position where I can make technical, product, and strategic decisions.
 ## Featured Projects
 
 ### [snapmcp](https://github.com/reeinharddd/snapmcp) · public
-AI agents can read code and see terminals — but can they capture a styled screenshot, a GIF tutorial, or a PDF report? snapmcp gives them 8 visual superpowers through a single MCP interface. Built with Playwright + Shiki syntax highlighting. Published on npm and ghcr.io.
+AI agents can read code and see terminals — but can they capture a styled screenshot, a GIF tutorial, or a PDF report? snapmcp gives them 13 tools — from styled screenshots and code captures to GIF animations and PDF reports — through a single MCP interface. Built with Playwright + Shiki syntax highlighting. Published on npm and ghcr.io.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-10B981?style=flat-square&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-10B981?style=flat-square&logo=bun&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-10B981?style=flat-square&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-10B981?style=flat-square&logo=docker&logoColor=white)
-![308 tests](https://img.shields.io/badge/308_tests-10B981?style=flat-square)
+![249 tests](https://img.shields.io/badge/249_tests-10B981?style=flat-square)
 
 ### orbe · enterprise (Printpack IP)
 3,200 employees, 17 facilities — one developer, 7 months, full stack. A manufacturing plant needed unified access control, credentials, and complaints tracking. Built from database schema to real-time UI, with SignalR for live updates and Redis caching cutting 200ms responses to 15ms.
