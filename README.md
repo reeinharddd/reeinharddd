@@ -1,4 +1,4 @@
-<img src="github-header.png" alt="Erik Alfonso Beltrán Ramírez · Software Developer" width="100%">
+<img src="github-header.png" alt="Erik Alfonso Beltran Ramirez · Software Developer" width="100%">
 
 I build systems that solve real problems — whether it's a CLI that brings order to chaos, an MCP server that gives AI agents new abilities, or an enterprise platform keeping a 3,200-employee plant running. Full stack: database schema to real-time UI.
 
@@ -21,6 +21,13 @@ AI agents can read code and see terminals — but can they capture a styled scre
 ![Docker](https://img.shields.io/badge/Docker-10B981?style=flat-square&logo=docker&logoColor=white)
 ![249 tests](https://img.shields.io/badge/249_tests-10B981?style=flat-square)
 
+### [maestro](https://github.com/reeinharddd/maestro) · public
+CLI for managing OpenCode infrastructure — providers, models, agents, skills, MCP servers, and routing rules. SQLite-backed, bidirectional sync with opencode.jsonc, intelligent model routing with cost-aware scoring. Built with Go.
+
+![Go](https://img.shields.io/badge/Go-10B981?style=flat-square&logo=go&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-10B981?style=flat-square&logo=sqlite&logoColor=white)
+![25k LOC](https://img.shields.io/badge/25k_LOC-10B981?style=flat-square)
+
 ### orbe · enterprise (Printpack IP)
 3,200 employees, 17 facilities — one developer, 7 months, full stack. A manufacturing plant needed unified access control, credentials, and complaints tracking. Built from database schema to real-time UI, with SignalR for live updates and Redis caching cutting 200ms responses to 15ms.
 
@@ -33,42 +40,6 @@ AI agents can read code and see terminals — but can they capture a styled scre
 ![Redis](https://img.shields.io/badge/Redis-10B981?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=flat-square&logo=postgresql&logoColor=white)
 
-### [okit](https://github.com/reeinharddd/okit) · public
-Your tools, models, MCPs, agents, and configs are scattered everywhere. okit brings them under one CLI — 18 packages with SQLite persistence, model routing, skill management, and agent configuration. SDD-TDD workflow with progressive coverage targets.
-
-![Go](https://img.shields.io/badge/Go-10B981?style=flat-square&logo=go&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-10B981?style=flat-square&logo=sqlite&logoColor=white)
-![73% coverage](https://img.shields.io/badge/73%25_coverage-10B981?style=flat-square)
-![11.2k LOC](https://img.shields.io/badge/11k_LOC-10B981?style=flat-square)
-
-### [sys-inspector](https://github.com/reeinharddd/sys-inspector) · public
-AI agents are blind to the machines they run on. sys-inspector bridges that gap — 16 detectors across hardware, network, security, runtimes, and services. Zero dependencies, pure POSIX shell, works on any Linux or macOS system.
-
-![Shell](https://img.shields.io/badge/Shell-10B981?style=flat-square&logo=gnubash&logoColor=white)
-![POSIX](https://img.shields.io/badge/POSIX-10B981?style=flat-square)
-
----
-
-## Concepts & Archives
-
-Ideas I explored and built — not actively maintained, but the architecture and approach still inform my work.
-
-### [brain](https://github.com/reeinharddd/brain) · public
-Managing 13 AI agents, 9 MCP servers, and 5 LLM providers separately is chaos. brain orchestrates them as a single system — a Go daemon with telemetry, routing, persistent memory, and multi-provider LLM dispatch. 62k LOC, 46% test coverage, 7 ADRs documenting every architectural decision.
-
-![Go](https://img.shields.io/badge/Go-10B981?style=flat-square&logo=go&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-10B981?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-10B981?style=flat-square&logo=sqlite&logoColor=white)
-![46% coverage](https://img.shields.io/badge/46%25_coverage-10B981?style=flat-square)
-![62k LOC](https://img.shields.io/badge/62k_LOC-10B981?style=flat-square)
-
-### [bks](https://github.com/reeinharddd/bks) · public
-Documents pile up in every format — PDFs, DOCX, images, plain text. bks ingests them all into one searchable knowledge base. Hybrid search: FTS5 for exact matches, vector embeddings for semantic meaning, RRF reranking for the best of both. MCP server included so AI agents can query it too.
-
-![Python](https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-10B981?style=flat-square&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-10B981?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-10B981?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
