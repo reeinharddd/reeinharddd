@@ -17,7 +17,7 @@ All-in-one MCP server for visual captures. 13 tools via Playwright — terminal,
 ![Bun](https://img.shields.io/badge/Bun-64748B?style=flat-square&logo=bun&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-64748B?style=flat-square&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-64748B?style=flat-square&logo=docker&logoColor=white)
-![1k tests](https://img.shields.io/badge/319_tests-3178C6?style=flat-square)
+![319 tests](https://img.shields.io/badge/319_tests-3178C6?style=flat-square)
 
 ### [maestro](https://github.com/reeinharddd/maestro)
 Infrastructure manager for AI coding tools. 22 CLI commands managing providers, models, agents, MCP servers, routing rules, and credentials. SQLite-backed with bidirectional config sync. Built with Go.
