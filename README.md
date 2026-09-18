@@ -41,7 +41,7 @@ Enterprise platform for a medical device manufacturing plant. Built solo — ful
 ---
 
 ## Actively seeking
-AI Tooling / Full-Stack Developer — remote, Mexico (UTC-6).
+AI Tooling / Full-Stack Developer — remote, Mexico (Pacific Time: UTC-8 / UTC-7 DST).
 
 ---
 
@@ -68,4 +68,4 @@ AI Tooling / Full-Stack Developer — remote, Mexico (UTC-6).
 ---
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/erik-beltran-dev/) · [Email](mailto:beltraberik@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/erik-beltran-dev/) · [Email](mailto:beltraberik@gmail.com) · [Portfolio](https://landing-kappa-ecru.vercel.app)
