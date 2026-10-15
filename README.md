@@ -1,16 +1,20 @@
 # Erik Beltran
 
-AI Tooling & Full-Stack Developer — MCP servers, developer infrastructure, enterprise systems.
+**Full-Stack Developer · .NET & Angular · AI tooling**
 
-**Published 2 open-source projects** (npm, ghcr.io, GitHub). **14 months** building enterprise software for a medical device manufacturer as the sole developer. Stack: Go, TypeScript, C# .NET, Angular, Python.
+Full-stack developer (.NET/Angular) focused on AI tooling — MCP servers, agent automation, and context/memory infrastructure for LLMs. I build products end-to-end and ship developer tooling in the open.
 
-Open to roles where I own the full picture — architecture, design, and delivery.
+- **Open source**: snapmcp — published on npm + ghcr.io with multi-OS CI.
+- **Enterprise delivery**: 14 months as sole developer building an enterprise platform for a medical device manufacturer (Printpack Medical).
+- **Open to remote** roles — Mexico, Pacific Time (UTC-8 / UTC-7 DST).
+
+Portfolio: **[erik-beltran.dev](https://erik-beltran.dev)**
 
 ---
 
 ## Featured Projects
 
-### [snapmcp](https://github.com/reeinharddd/snapmcp)
+### [snapmcp](https://github.com/reeinharddd/snapmcp) — MCP server (public)
 All-in-one MCP server for visual captures. 13 tools via Playwright — terminal, code, browser, markdown, diffs, HTML, PDF, GIF. Published on npm and ghcr.io with multi-platform CI/CD (Linux, macOS, Windows). 319 tests.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -19,14 +23,16 @@ All-in-one MCP server for visual captures. 13 tools via Playwright — terminal,
 ![Docker](https://img.shields.io/badge/Docker-64748B?style=flat-square&logo=docker&logoColor=white)
 ![319 tests](https://img.shields.io/badge/319_tests-3178C6?style=flat-square)
 
-### [maestro](https://github.com/reeinharddd/maestro)
-Infrastructure manager for AI coding tools. 22 CLI commands managing providers, models, agents, MCP servers, routing rules, and credentials. SQLite-backed with bidirectional config sync. Built with Go.
+### maestro — AI infrastructure CLI (private · in development)
+Go CLI to manage AI coding tools: providers, models, agents, MCP servers, routing rules, and credentials. 35 commands across 18 internal packages, SQLite-backed with bidirectional config sync.
 
 ![Go](https://img.shields.io/badge/Go-3178C6?style=flat-square&logo=go&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0EA5E9?style=flat-square&logo=sqlite&logoColor=white)
 
-### orbe · professional experience (Printpack IP)
-Enterprise platform for a medical device manufacturing plant. Built solo — full stack, database to UI. Clean Architecture, CQRS, multi-factor authentication (QR, PIN, email, LDAP), real-time SignalR updates, Redis caching, Hangfire background jobs, QuestPDF reporting. Designed for 300+ internal users across multiple facilities.
+### ORBE — professional experience (Printpack Medical IP)
+Enterprise multi-plant platform for a medical device manufacturer — access control, digital credentials, complaints, and technical documentation for **3,200+ employees across 17 facilities**. Built solo, database to UI. .NET 8 + Angular 19, Clean Architecture + CQRS, **52 tables across 5 schemas (64 EF Core entities)**, multi-factor authentication (QR, PIN, email, LDAP), real-time SignalR updates, Redis caching, Hangfire background jobs, QuestPDF reporting.
+
+Delivered and ready to operate across all 17 plants (completed and planned modules); it did not reach production deployment because the company lacked the required infrastructure, and the engagement ended there.
 
 ![C#](https://img.shields.io/badge/C%23-3178C6?style=flat-square&logo=csharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET_8-7C3AED?style=flat-square&logo=dotnet&logoColor=white)
@@ -41,7 +47,7 @@ Enterprise platform for a medical device manufacturing plant. Built solo — ful
 ---
 
 ## Actively seeking
-AI Tooling / Full-Stack Developer — remote, Mexico (Pacific Time: UTC-8 / UTC-7 DST).
+Full-Stack / AI tooling roles — remote (Mexico · Pacific Time: UTC-8 / UTC-7 DST). Also open to: AI Engineer, Applied AI Engineer, Forward Deployed Engineer.
 
 ---
 
@@ -62,10 +68,10 @@ AI Tooling / Full-Stack Developer — remote, Mexico (Pacific Time: UTC-8 / UTC-
 ---
 
 ## Education
-**Bachelor's in Software Engineering** — UTT, Mexico (8th semester, in progress)
-**Associate's in Software Development** — UTT, Mexico (completed 2025)
+**Ingeniería en Tecnologías de la Información** — UTT, Mexico (2022–2027, in progress · 9th semester)
+**TSU in Software Development** — UTT, Mexico (completed early 2025)
 
 ---
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/erik-beltran-dev/) · [Email](mailto:beltraberik@gmail.com) · [Portfolio](https://landing-kappa-ecru.vercel.app)
+[Portfolio](https://erik-beltran.dev) · [LinkedIn](https://www.linkedin.com/in/erik-beltran-dev/) · [Email](mailto:beltraberik@gmail.com)
